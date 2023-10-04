@@ -1,5 +1,6 @@
-# 맞춤법 검사기
+# [2023]Capstone_Project
 <br/>
+andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 ---
 ### 목차
@@ -36,3 +37,8 @@
 2. "오류 내역"을 눌러 오류 내역을 확인한다. <br/>
 > "전체 복사"를 눌러 검사 결과를 복사한다. <br/>
 > "내용 변경"을 눌러 새로운 내용을 검사한다.
+
+<div align="center">
+<h2>📚tech stack📚</h2><h4>✨Languages✨</h4>  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+</div>
