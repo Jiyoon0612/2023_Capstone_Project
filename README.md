@@ -40,7 +40,7 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 > "내용 변경"을 눌러 새로운 내용을 검사한다.
 
 
-
+</br></br>
 
 <div align="center">
 <h2>📚tech stack📚</h2><h4>✨Languages✨</h4>  
