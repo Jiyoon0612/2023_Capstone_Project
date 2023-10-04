@@ -20,7 +20,7 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 
 ## 2. 카메라 구동 및 OCR
-<img src="![1](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/75e8a96f-183f-4616-9636-3775aa19641d)" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/75e8a96f-183f-4616-9636-3775aa19641d" height="500"/>
 <img src="![2](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/bdb2710d-a571-4bf6-8ab4-69f51f230022)" height="500"/>
 <img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/8d4e8c6a-8e7c-4d34-bf76-3081ea71a961" height="500"/>
 <br/>
