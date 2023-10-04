@@ -1,4 +1,4 @@
-![5](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/b7d49f51-2f07-461f-aa89-0a12f4e55a2e)# [2023]Capstone_Project
+# [2023]Capstone_Project
 <br/>
 
 andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
@@ -39,7 +39,10 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 > "전체 복사"를 눌러 검사 결과를 복사한다. <br/>
 > "내용 변경"을 눌러 새로운 내용을 검사한다.
 
+
+
+
 <div align="center">
 <h2>📚tech stack📚</h2><h4>✨Languages✨</h4>  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 </div>
