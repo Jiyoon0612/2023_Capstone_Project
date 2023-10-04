@@ -1,5 +1,6 @@
 # [2023]Capstone_Project
 <br/>
+
 andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 ---
