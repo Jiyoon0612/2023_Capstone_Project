@@ -1,4 +1,4 @@
-# [2023]Capstone_Project
+![5](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/b7d49f51-2f07-461f-aa89-0a12f4e55a2e)# [2023]Capstone_Project
 <br/>
 
 andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
@@ -20,9 +20,9 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 
 ## 2. 카메라 구동 및 OCR
-<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/75e8a96f-183f-4616-9636-3775aa19641d" height="500"/>
-<img src="![2](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/bdb2710d-a571-4bf6-8ab4-69f51f230022)" height="500"/>
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/8d4e8c6a-8e7c-4d34-bf76-3081ea71a961" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/bdb2710d-a571-4bf6-8ab4-69f51f230022" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/5a1ee9ed-db97-4c01-80bf-e9aa88c6b986" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/f2ae0318-48e8-489a-9821-887cd5b8fa70" height="500"/>
 <br/>
 1. "사진찍기"를 눌러 문서 사진을 찍는다. <br/>
 2. 사진이 잘 찍힌 것을 확인 후, "텍스트로 전환"을 누른다. <br/>
@@ -30,9 +30,9 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 
 ## 3. 맞춤법 검사
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/2cbddba4-4aee-47e3-b2b4-5db1ceaf7a9f" height="500"/>
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/ebc410bc-f633-47d0-887b-2fe7b95b5202" height="500"/>
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/64729524-db36-4acf-97f6-b7d3d818c841" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/1fc45aa6-4660-4c03-bd47-bf9238f45fc2" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/0ed4e9f6-88ca-4f81-ae9e-3dffaa9845cc" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/b232a5af-6edf-45c4-b8d7-db3584cbc2a2" height="500"/>
 <br/>
 1. "검사 시작"을 눌러 맞춤법 검사를 한다. <br/>
 2. "오류 내역"을 눌러 오류 내역을 확인한다. <br/>
