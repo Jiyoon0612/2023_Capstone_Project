@@ -13,15 +13,15 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 
 
 ## 1. 어플 설명
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/b0ba7ba1-36b7-4faa-b0e2-bcd1a25f0152" height="500"/>
+<img src="https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/75e8a96f-183f-4616-9636-3775aa19641d" height="500"/>
 <br/>
 사용자가 카메라로 손글씨 및 문서를 촬영하면 OCR로 인식된 텍스트를 맞춤법 검사하는 어플이다.
 <br/><br/>
 
 
 ## 2. 카메라 구동 및 OCR
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/f344bf6b-fed4-477c-bd61-57a1251d53f7" height="500"/>
-<img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/19f9cfa0-072f-4f5d-aad6-0c2ed76d5efb" height="500"/>
+<img src="![1](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/75e8a96f-183f-4616-9636-3775aa19641d)" height="500"/>
+<img src="![2](https://github.com/Jiyoon0612/2023_Capstone_Project/assets/137297934/bdb2710d-a571-4bf6-8ab4-69f51f230022)" height="500"/>
 <img src="https://github.com/ahnnoah/2023_Capstone/assets/72554589/8d4e8c6a-8e7c-4d34-bf76-3081ea71a961" height="500"/>
 <br/>
 1. "사진찍기"를 눌러 문서 사진을 찍는다. <br/>
