@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ffffff"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/home_btn"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:textColor="#a390ee"
+                android:textStyle="bold"
+                android:background="#FFFFFF"
+                android:text="Home"
+                />
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/photo_btn"
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:background="#a390ee"
+            android:text="사진 찍기"
+            android:layout_weight="1"
+            />
+        <ScrollView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:layout_weight="3"
+            android:fillViewport="true"
+            >
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                />
+        </ScrollView>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/ocr_btn"
+            android:layout_width="130dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:background="#a390ee"
+            android:text="텍스트로 전환"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#d2d2d2">
+        <ScrollView
+            android:layout_width="320dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:fillViewport="true"
+            android:layout_weight="3"
+            >
+            <TextView
+                android:id="@+id/ocr_text"
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:text="이곳에 텍스트가 출력됩니다."
+                />
+        </ScrollView>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/spell_btn"
+            android:layout_width="130dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:background="#a390ee"
+            android:text="맞춤법 검사하기"
+            android:textSize="14dp" />
+    </LinearLayout>
+</LinearLayout>
