@@ -41,6 +41,6 @@ andriodstudio + OCR를 활용한 맞춤법 검사 어플리케이션🥑
 <br/><br/>
 
 <div align="center">
-<h2>📚tech stack📚</h2><h4>✨Languages✨</h4>  
+<h2>📚tech stack📚</h2><h4>✨tools✨</h4>  
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 </div>
